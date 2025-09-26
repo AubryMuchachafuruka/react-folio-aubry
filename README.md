@@ -66,3 +66,4 @@ Reactfolio is just the beginning. Aubrey plans to:
 ---
 
 Let me know if you'd like a matching `About` section for the site or a deployment guide for GitHub Pages, Netlify, or Vercel. We can also tailor this for your MathMaster 8086 journey or Jamela Cakes outreach!
+# munya-portifolio-live-react
