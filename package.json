@@ -1,6 +1,5 @@
 {
-      "homepage": "https://github.com/AubryMuchachafuruka/munya-portifolio-livereact",
-      "name": "reactfolio",
+       "name": "reactfolio",
       "private": true,
       "version": "0.0.0",
       "type": "module",
