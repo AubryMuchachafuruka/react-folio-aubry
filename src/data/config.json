@@ -1,0 +1,34 @@
+{
+    "job": "Fullstack Developer",
+  "name": "Munyaradzi Muchafuruka",
+  "desc": "A passionate full-stack developer and web designer with  experience, currently based in Zimbabwe.",
+  "aboutDesc": "Munyaradzi is a versatile developer skilled in both front-end and back-end technologies. With a strong foundation in JavaScript, React, Node.js, and database management, he brings creative solutions to complex problems. His journey spans across continents, blending technical expertise with a global perspective.",
+  "email": "aubreyubuntu@gmail.com",
+  "status": "on",
+  "hireMeLink": "https://github.com/AubryMuchachafuruka",
+  "projects": [
+    {
+      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
+      "project-name": "reactfolio",
+      "project-desc": "React + Tailwind Portfolio"
+    }
+  ],
+  "social": [
+    {
+      "icon": "FaXTwitter",
+      "link": "https://x.com"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://instagram.com"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com"
+    },
+    {
+      "icon": "FaLinkedinIn",
+      "link": "https://linkedin.com"
+    }
+  ]
+}
